@@ -72,7 +72,9 @@ response = requests.post("https://internal-api/metrics", json=metrics, cert=("cl
 
 <img width="445" alt="colle" src="https://github.com/user-attachments/assets/59c78ba3-a1be-4b9f-8054-c19c5960ce5c" />
 
+
 <img width="300" alt="collect" src="https://github.com/user-attachments/assets/6588cf92-28c8-4656-aaeb-47d06c111f78" />
+
 
 <img width="461" alt="mwtric" src="https://github.com/user-attachments/assets/ef92bca5-8669-4a91-9113-7d7474000670" />
 
